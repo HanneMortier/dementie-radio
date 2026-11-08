@@ -4,14 +4,17 @@
 
 ## Discovery
 
-* Literatuuronderzoek (N=x)
+* Literatuuronderzoek (N=10)
   * [Protocol](url)
   * [Rapport](url)
     
-* Interviews (N=x)
+* Interviews (N=3)
   * [Protocol](url)
   * [Rapport](url)
-    
+
+* Benchmarking (N=8)
+  * [Protocol](url)
+  * [Rapport](url)
 ## Definition
 
 * User testing wave 1 (N=x)
