@@ -13,8 +13,8 @@
   * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/hanne_mortier_ugent_be/IQDgX5rVLhuQSIT40NZiNtyjAeCPQPEcnI3GYWMR3NWVk4U?e=7jvQDv)
 
 * Benchmarking (N=8)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/hanne_mortier_ugent_be/IQCc8lYhtVk7RpPvjnq54Fi0AQSiA4uMisdC7NGD4xMLMEk?e=9e7iTn)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/hanne_mortier_ugent_be/IQACU2JVVAmMSLDaw7ELneErARJnNa53ETR4gkJ0EX-FCho?e=ngux7w)
 ## Definition
 
 * User testing wave 1 (N=x)
