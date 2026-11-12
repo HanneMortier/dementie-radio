@@ -1,7 +1,6 @@
 [← Terug naar hoofdpagina](../README.md)
 
-# Licentie
-> :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
+# Licentie 
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
