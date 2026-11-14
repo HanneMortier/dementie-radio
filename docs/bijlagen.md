@@ -19,11 +19,11 @@
 ## Definition
 
 * User testing wave 1 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/hanne_mortier_ugent_be/IQBASTmZzFzTQbZO6OB2zT0qAQvsxsOOMgYYk7ywLJ1MGAM?e=VtUTO1)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/hanne_mortier_ugent_be/IQARea33WRO2Sr68ojlG2_UzAVqbzZwbJ6zc3n8OQSpCCEA?e=rrHXeX)
     
 * User testing wave 2 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/hanne_mortier_ugent_be/IQA1VpURIiyrQay8xayUFFznAaeXBYjTRg1NlkU3-QEC5Gk?e=5VNrCr)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/hanne_mortier_ugent_be/IQD_eeTjQAIER7wOTTdzOxqdAe5sevNEFfzwDmnc3kpUDKc?e=VACCHM)
 
   [← Noot inzake het gebruik van AI](ai.md) · [Licentie →](licentie.md) 
