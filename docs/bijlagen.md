@@ -19,11 +19,11 @@
 ## Definition
 
 * User testing wave 1 (N=x)
-  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/hanne_mortier_ugent_be/IQBASTmZzFzTQbZO6OB2zT0qAQvsxsOOMgYYk7ywLJ1MGAM?e=VtUTO1)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/hanne_mortier_ugent_be/IQARea33WRO2Sr68ojlG2_UzAVqbzZwbJ6zc3n8OQSpCCEA?e=rrHXeX)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/t/course-1478567-group/IQBur7VOACGSRJlw2dQxZ3maARIdayRUq70Vt1tlEX5Ur9k?e=NiZZBx)
+  * [Rapport](https://ugentbe.sharepoint.com/:w:/t/course-1478567-group/IQB54EYQbbnzTpKnH79VSpOPAQ8HDdky3ZZOHonmD1qvJHk?e=bmmLuZ)
     
 * User testing wave 2 (N=x)
-  * [Protocol](https://ugentbe-my.sharepoint.com/:w:/g/personal/hanne_mortier_ugent_be/IQA1VpURIiyrQay8xayUFFznAaeXBYjTRg1NlkU3-QEC5Gk?e=5VNrCr)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/hanne_mortier_ugent_be/IQD_eeTjQAIER7wOTTdzOxqdAe5sevNEFfzwDmnc3kpUDKc?e=VACCHM)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/t/course-1478567-group/IQCmav5dL-RDR6BKGFCJ2QHSAUzV9kDXH1EidWVB6b0tNGA?e=gtR4Ms)
+  * [Rapport](https://ugentbe.sharepoint.com/:w:/t/course-1478567-group/IQChx2mNjg5uQK47PHmgJbRHAZaJYuK2vvSARz97Xlj7lLg?e=wMdVca)
 
   [← Noot inzake het gebruik van AI](ai.md) · [Licentie →](licentie.md) 
