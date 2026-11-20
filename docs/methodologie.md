@@ -2,7 +2,9 @@
 # Methodologie
 Max 400 woorden.   
 Beschrijf je methodologie (voor sem 1, enkel SEM1, zie les methodologie).    
-   
+
+![tijdlijn](<../img/triple_diamond_ontwerpproces_(SEM 1).png>)
+
 Maak hierbij gebruik van een zelf gemaakte afbeelding om je tijdlijn weer te geven. Besteed hier voldoende aandacht aan. Dit is de kapstok van je project.   
 
 Op deze tijdlijn moeten minimaal
