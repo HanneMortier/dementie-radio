@@ -4,8 +4,10 @@
 Max. 1000 woorden.    
 Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
 ## Doestellingen
-Wat wilde je bereiken in deze fase?    
-Welke deelvragen moesten hiervoor beantwoord worden?
+In deze fase onderzoeken we hoe we het gekozen idee uit de discovery-fase kunnen uitwerken tot een concreet concept. Het doel is een product te ontwikkelen dat bewoners met dementie in een woonzorgcentrum verbindt met hun familie op momenten dat zijn niet fysiek bij elkaar kunnen zijn. Hierbij zoeken we antwoorden op volgende vragen:
+
+- Hoe reageren mensen met dementie op diverse externe prikkels?
+- ...
 ## Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.  
 Leg uit en toon welke prototypes gemaakt werden en hoe deze helpen om de onderzoeksvragen te beantwoorden (benoemen wat je aftoetst & link naar design requirements).   
