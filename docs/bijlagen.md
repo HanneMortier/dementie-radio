@@ -18,11 +18,11 @@
   
 ## Definition
 
-* User testing wave 1 (N=x)
+* User testing wave 1 (N=5)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/course-1478567-group/IQBur7VOACGSRJlw2dQxZ3maARIdayRUq70Vt1tlEX5Ur9k?e=NiZZBx)
   * [Rapport](https://ugentbe.sharepoint.com/:w:/t/course-1478567-group/IQB54EYQbbnzTpKnH79VSpOPAQ8HDdky3ZZOHonmD1qvJHk?e=bmmLuZ)
     
-* User testing wave 2 (N=x)
+* User testing wave 2 (N=X)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/course-1478567-group/IQCmav5dL-RDR6BKGFCJ2QHSAUzV9kDXH1EidWVB6b0tNGA?e=gtR4Ms)
   * [Rapport](https://ugentbe.sharepoint.com/:w:/t/course-1478567-group/IQChx2mNjg5uQK47PHmgJbRHAZaJYuK2vvSARz97Xlj7lLg?e=wMdVca)
 
